@@ -1,5 +1,5 @@
-/ VOICE, BLUETOOTH , OBSTICAL AVOIDING CAR CODE BY DEVRAJ 
-*/
+// VOICE, BLUETOOTH , OBSTICAL AVOIDING CAR CODE BY DEVRAJ 
+
 #include <Servo.h>
 #include <AFMotor.h>
 #define Echo A0
